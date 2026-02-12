@@ -38,7 +38,7 @@ editPost:
 ## Ideation
 Deteksi tuberculosis dari napas? sound impossible right? itu ketika pertama kali aku mendengar nya.
 
-Ceritanya bermula dari salah satu teman dekat aku ngajak aku join dalam sebuah lomba yang berskala nasional di Indonesia, Di waktu itu, kamu sebenarnya juga belum punya ide apa yang mau kami buat, terdengar seperti jebakan ya wkwk, but its okay, kami diskusi.. hari demi hari kami cari tahu apa yang sekiranya berpotensi untuk menang dan bisa kami buat dan ide nya terus berubah-ubah.
+Ceritanya bermula dari salah satu teman dekat aku ngajak aku join dalam sebuah lomba yang berskala nasional di Indonesia, Di waktu itu, kami sebenarnya juga belum punya ide apa yang mau kami buat, terdengar seperti jebakan ya wkwk, but its okay, kami diskusi.. hari demi hari kami cari tahu apa yang sekiranya berpotensi untuk menang dan bisa kami buat dan ide nya terus berubah-ubah.
 
 Ketika kita ingin membuat suatu ide itu bisa terjadi, it should be make sense right (?), itulah kenapa .. kami baca banyak paper, cari tahu apa yang pernah orang lain lakukan, bagaimana metodologi nya, dan seterusnya. 
 
@@ -46,7 +46,7 @@ Sampai akhirnya, kami membuat keputusan ingin fokus ke bidang kesehatan dan kami
 
 Setelah baca dari beberapa sumber, ide nya adalah kami perlu napas dari seseorang dan menganalisa VOCs di dalam napas nya, ada beberapa alat yang serupa pernah dibuat sebelumnya terkait deteksi penyakit dari napas itu disebut *e-nose*, bisa untuk deteksi PPOK, diabetes, dan masih banyak lagi, dari sini kami paham kalau itu juga mungkin jika di terapkan ke penyakit tuberculosis. Di beberapa jurnal juga kami menemukan bahwa orang yang terjangkit tuberculosis punya VOCs dalam napas nya yang berbeda dengan orang yang sehat, dari situ kami kesimpulkan bahwa its possible [[1](https://doi.org/10.1016/j.tube.2006.03.004), [2](https://doi.org/10.1038/s41378-023-00594-0)].
 
-Sederhananya seperti itu, sekarang muncul permasalahan. Kita udah tahu apa saja VOCs apa saja yang bisa digunakan untuk mengidentifikasi tuberculosis, tapi bagaimana kita bisa menganalisa VOCs tersebut? Mungkin kamu berpikir kan bisa pakai sensor (?), tapi tahu ga, alat untuk deteksi spesifik VOCs sesuai dengan penelitian yang kami dapat itu mahal banget.... sedangkan dana yang kami punya sangat tidak mungkin untuk bisa membeli alat tersebut, alat itu namanya GC/MS (Gas Chromatography–Mass Spectrometry). 
+Sederhananya seperti itu, sekarang muncul permasalahan. Kita udah tahu apa saja VOCs yang bisa digunakan untuk mengidentifikasi tuberculosis, tapi bagaimana kita bisa menganalisa VOCs tersebut? Mungkin kamu berpikir kan bisa pakai sensor (?), tapi tahu ga, alat untuk deteksi spesifik VOCs sesuai dengan penelitian yang kami dapat itu mahal banget.... sedangkan dana yang kami punya sangat tidak mungkin untuk bisa membeli alat tersebut, alat itu namanya GC/MS (Gas Chromatography–Mass Spectrometry). 
 
 Di sini lah the power of machine learning di butuhkan. Ide kedua nya adalah ... kasarnya kami tidak perlu tahu VOCs spesifik nya, tapi kami bisa memanfaatkan algoritma machine learning untuk bisa membaca pola dari VOCs tersebut. Pola-pola itu dari data napas yang di berikan ke algoritma machine learning untuk membuat model yang bisa mengidentifikasi tuberculosis dari napas. 
 
@@ -57,7 +57,7 @@ Pengerjaan dimulai dari desain dan membuat alat nya, ini proses yang cukup lama 
 
 ![Components](images/smeltub/smeltub-components.png)
 
-Prototype nya sudah jadi sekarang adalah waktunya kita mencoba alat tersebut. Langkah selanjutnya disini adalah kita perlu mengumpulkan data nya dari pasien yang terjangkit tuberculosis dan pasien yang sehat. 
+Prototype nya sudah jadi, sekarang adalah waktunya kita mencoba alat tersebut. Langkah selanjutnya disini adalah kita perlu mengumpulkan data nya dari pasien yang terjangkit tuberculosis dan pasien yang sehat. 
 
 Jujur ini adalah proses yang cukup panjang dan lebih melelahkan daripada membuat alatnya. Kami pergi dari satu rumah sakit ke rumah sakit, puskesmas, bahkan sampai datang langsung ke rumah untuk mendapatkan sampel napas nya, pastinya dengan protokol kesehatan yang sesuai prosedur ya. Kesalahan pada prototipe terkadang tidak dapat dihindari, terkadang habis baterai, ada masalah di server, atau bahkan ada masalah di prototipe itu sendiri. Tapi disini aku sangat belajar banyak hal, sangat worth it.
 
