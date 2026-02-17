@@ -15,6 +15,19 @@
                 href="http://localhost:1313/tags/iphone/"
                 />
   </url><url>
+    <loc>http://localhost:1313/posts/solusi-storage-iphone-penuh/</loc>
+    <lastmod>2026-02-17T22:45:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/solusi-storage-iphone-penuh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/posts/solusi-storage-iphone-penuh/"
+                />
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
     <xhtml:link
@@ -39,19 +52,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="http://localhost:1313/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/posts/solusi-storage-iphone-penuh/</loc>
-    <lastmod>2026-02-17T22:45:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/solusi-storage-iphone-penuh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/solusi-storage-iphone-penuh/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/storage/</loc>

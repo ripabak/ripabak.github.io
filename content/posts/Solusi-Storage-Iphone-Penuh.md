@@ -1,5 +1,5 @@
 ---
-title: "Solusi untuk Storage Iphone yang sering penuh"
+title: "iPhone Storage Full"
 date: 2026-02-17T22:45:00+07:00
 tags: ["Iphone", "Storage", "Tips"]
 author: "Me"
