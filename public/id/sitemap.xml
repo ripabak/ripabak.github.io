@@ -4,6 +4,16 @@
   <url>
     <loc>http://localhost:1313/tags/iphone/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/iphone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/tags/iphone/"
+                />
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
@@ -33,9 +43,29 @@
   </url><url>
     <loc>http://localhost:1313/posts/solusi-storage-iphone-penuh/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/solusi-storage-iphone-penuh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/posts/solusi-storage-iphone-penuh/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/storage/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/storage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/tags/storage/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
@@ -52,6 +82,16 @@
   </url><url>
     <loc>http://localhost:1313/tags/tips/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/tags/tips/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/experiment/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>

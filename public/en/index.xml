@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.155.2</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Feb 2026 23:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 22:45:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solution for Frequently Full iPhone Storage</title>
+      <link>http://localhost:1313/en/posts/solusi-storage-iphone-penuh/</link>
+      <pubDate>Tue, 17 Feb 2026 22:45:00 +0700</pubDate>
+      <guid>http://localhost:1313/en/posts/solusi-storage-iphone-penuh/</guid>
+      <description>Solution to overcome frequently full iPhone storage by resetting and restoring backup.</description>
+    </item>
     <item>
       <title>Experiment: LLM Misunderstanding Time</title>
       <link>http://localhost:1313/en/posts/experiment-llm-salah-memahami-waktu/</link>
