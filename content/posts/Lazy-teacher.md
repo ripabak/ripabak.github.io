@@ -21,7 +21,7 @@ cover:
     alt: "Lazy Teacher" # alt text
     caption: "Lazy Teacher" # display caption under cover
 editPost:
-    URL: "https://github.com/riparuk/riparuk.github.io/content/posts/Lazy-teacher.md"
+    URL: "https://github.com/ripabak/ripabak.github.io/content/posts/Lazy-teacher.md"
     Text: "Suggest Changes"
     appendFilePath: true
 ---
@@ -133,4 +133,4 @@ Contoh output nya akan seperti ini :
 ]
 ```
 
-Masih ada banyak lagi fitur-fitur nya yang bisa di eksplor, seperti terkait evaluasi, score, dll. untuk lebih lengkap nya, aku menyarankan kamu untuk langsung ke dokumentasi nya di github, https://github.com/riparuk/LazyTeacher. Thank you for reading :)
+Masih ada banyak lagi fitur-fitur nya yang bisa di eksplor, seperti terkait evaluasi, score, dll. untuk lebih lengkap nya, aku menyarankan kamu untuk langsung ke dokumentasi nya di github, https://github.com/ripabak/LazyTeacher. Thank you for reading :)

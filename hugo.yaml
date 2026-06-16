@@ -1,5 +1,5 @@
-baseURL: "https://riparuk.github.io/"
-title: Riparuk Web
+baseURL: "https://ripabak.github.io/"
+title: ripabak Web
 theme: PaperMod
 
 caches:
@@ -32,8 +32,8 @@ outputs:
 
 languages:
   id:
-    languageName: "Bahasa Indonesia"
-    languageCode: "id"
+    label: "Bahasa Indonesia"
+    locale: "id"
     weight: 1
     menu:
       main:
@@ -67,8 +67,8 @@ languages:
         iconHeight: 35
 
   en:
-    languageName: "English"
-    languageCode: "en"
+    label: "English"
+    locale: "en"
     weight: 2
     menu:
       main:
@@ -103,7 +103,7 @@ languages:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Riparuk Web
+  title: ripabak Web
   description: "Sharing About Mine"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -159,7 +159,7 @@ params:
     # - name: stackoverflow
     #   url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/riparuk"
+      url: "https://github.com/ripabak"
     - name: linkedin
       url: "https://linkedin.com/in/rifafaruqi"
     - name: email
@@ -179,7 +179,7 @@ params:
   #   hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/riparuk/riparuk.github.io/content"
+    URL: "https://github.com/ripabak/ripabak.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

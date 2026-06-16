@@ -21,7 +21,7 @@ cover:
     alt: "Hidden Cam Web" # alt text
     caption: "Hidden Cam Web" # display caption under cover
 editPost:
-    URL: "https://github.com/riparuk/riparuk.github.io/content/posts/Hidden-cam.md"
+    URL: "https://github.com/ripabak/ripabak.github.io/content/posts/Hidden-cam.md"
     Text: "Suggest Changes"
     appendFilePath: true
 ---
@@ -34,7 +34,7 @@ Itu juga yang mendasari ku membuat software ini, aku tidak memberi nama khusus, 
 
 Cara pakai nya sederhana, ini bisa di akses melalui website disini : https://hidden-cam.vercel.app/. 
 
-Tenang hasil video nya akan disimpan di browsermu sendiri kok, tidak akan disimpan di server. Dan ini juga open-source, jadi kamu bisa lihat isi dalam kode nya seperti apa. Github : https://github.com/riparuk/hidden-cam-web.
+Tenang hasil video nya akan disimpan di browsermu sendiri kok, tidak akan disimpan di server. Dan ini juga open-source, jadi kamu bisa lihat isi dalam kode nya seperti apa. Github : https://github.com/ripabak/hidden-cam-web.
 
 ![preview](images/hidden-cam/preview.png)
 

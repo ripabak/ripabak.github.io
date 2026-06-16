@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 editPost:
-    URL: "https://github.com/riparuk/riparuk.github.io/content/posts/Experiment-LLM-Salah-Memahami-Waktu.md"
+    URL: "https://github.com/ripabak/ripabak.github.io/content/posts/Experiment-LLM-Salah-Memahami-Waktu.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
@@ -228,6 +228,6 @@ Now this can be more consistent, I tried with user input = â€œLunch for 60 twdâ€
 
 ## Conclusion
 
-At least now, the output is more consistent for the transaction date issue, although it can be seen that there are generated user intent results where the current time sentence does not appear :(. At least now the results are not hallucinations like before. This will continue to be improved and if I find something interesting, I will share it on my personal blog [riparuk.github.io](https://riparuk.github.io).
+At least now, the output is more consistent for the transaction date issue, although it can be seen that there are generated user intent results where the current time sentence does not appear :(. At least now the results are not hallucinations like before. This will continue to be improved and if I find something interesting, I will share it on my personal blog [ripabak.github.io](https://ripabak.github.io).
 
 The conclusion is, when playing with LLM for strict predicted output cases like this, the system prompt must also be strict, especially if using a cheap and fast model. Every problem related to LLM hallucination must be strict in terms of prompting. Hope it helps.

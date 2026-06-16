@@ -1,19 +1,19 @@
 
-[![Build and deploy](https://github.com/riparuk/riparuk.github.io/actions/workflows/hugo.yaml/badge.svg)](https://github.com/riparuk/riparuk.github.io/actions/workflows/hugo.yaml)
+[![Build and deploy](https://github.com/ripabak/ripabak.github.io/actions/workflows/hugo.yaml/badge.svg)](https://github.com/ripabak/ripabak.github.io/actions/workflows/hugo.yaml)
 
 
 # Installation
 Git clone this repository
 ```bash
-git clone https://github.com/riparuk/riparuk.github.io.git
+git clone https://github.com/ripabak/ripabak.github.io.git
 ```
 
 # Installation
 
 1. Clone this repository
     ```bash
-    git clone https://github.com/riparuk/riparuk.github.io.git
-    cd riparuk.github.io
+    git clone https://github.com/ripabak/ripabak.github.io.git
+    cd ripabak.github.io
     ```
 
 2. Initialize and update the theme submodule

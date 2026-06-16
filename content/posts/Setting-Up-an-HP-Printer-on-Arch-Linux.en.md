@@ -17,7 +17,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 editPost:
-    URL: "https://github.com/riparuk/riparuk.github.io/content/posts/Setting-Up-an-HP-Printer-on-Arch-Linux.md"
+    URL: "https://github.com/ripabak/ripabak.github.io/content/posts/Setting-Up-an-HP-Printer-on-Arch-Linux.md"
     Text: "Suggest Changes"
     appendFilePath: true
 ---

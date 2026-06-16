@@ -21,7 +21,7 @@ cover:
     alt: "Lazy Teacher" # alt text
     caption: "Lazy Teacher" # display caption under cover
 editPost:
-    URL: "https://github.com/riparuk/riparuk.github.io/content/posts/Lazy-teacher.md"
+    URL: "https://github.com/ripabak/ripabak.github.io/content/posts/Lazy-teacher.md"
     Text: "Suggest Changes"
     appendFilePath: true
 ---
@@ -133,4 +133,4 @@ Example output:
 ]
 ```
 
-There are still many more features that can be explored, such as related to evaluation, scores, etc. For more details, I suggest you go directly to the documentation on github, https://github.com/riparuk/LazyTeacher. Thank you for reading :)
+There are still many more features that can be explored, such as related to evaluation, scores, etc. For more details, I suggest you go directly to the documentation on github, https://github.com/ripabak/LazyTeacher. Thank you for reading :)

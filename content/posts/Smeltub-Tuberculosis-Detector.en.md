@@ -27,7 +27,7 @@ cover:
     relative: false
     hidden: false
 editPost:
-    URL: "https://github.com/riparuk/riparuk.github.io/content/posts/Smeltub-Tuberculosis-Detector.md"
+    URL: "https://github.com/ripabak/ripabak.github.io/content/posts/Smeltub-Tuberculosis-Detector.md"
     Text: "Suggest Changes"
     appendFilePath: true
 ---

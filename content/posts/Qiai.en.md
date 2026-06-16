@@ -22,7 +22,7 @@ cover:
     alt: "QIAI Terminal Command" # alt text
     caption: "QIAI Terminal Command" # display caption under cover
 editPost:
-    URL: "https://github.com/riparuk/riparuk.github.io/content/posts/Qiai.md"
+    URL: "https://github.com/ripabak/ripabak.github.io/content/posts/Qiai.md"
     Text: "Suggest Changes"
     appendFilePath: true
 ---
@@ -88,4 +88,4 @@ Thanks for reading, hope it help :)
 
 If you want to collaborate, or need more features for QIAI, you can create an issue on the github repo.
 
-Link Github : https://github.com/riparuk/qiai
+Link Github : https://github.com/ripabak/qiai

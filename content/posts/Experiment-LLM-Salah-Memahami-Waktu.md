@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 editPost:
-    URL: "https://github.com/riparuk/riparuk.github.io/content/posts/Experiment-LLM-Salah-Memahami-Waktu.md"
+    URL: "https://github.com/ripabak/ripabak.github.io/content/posts/Experiment-LLM-Salah-Memahami-Waktu.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
@@ -228,6 +228,6 @@ Sekarang ini bisa lebih konsisten, saya coba dengan user input = “Lunch for 60
 
 ## Kesimpulan
 
-At least sekarang, output-nya lebih konsisten untuk masalah transaction date-nya, walaupun bisa dilihat ada hasil generate user intent yang tidak muncul kalimat current time-nya :(. At least sekarang hasilnya tidak halusinasi seperti sebelum-sebelumnya. Ini akan terus di-improve dan kalau aku menemukan hal yang menarik, aku akan share di blog pribadiku [riparuk.github.io](https://riparuk.github.io).
+At least sekarang, output-nya lebih konsisten untuk masalah transaction date-nya, walaupun bisa dilihat ada hasil generate user intent yang tidak muncul kalimat current time-nya :(. At least sekarang hasilnya tidak halusinasi seperti sebelum-sebelumnya. Ini akan terus di-improve dan kalau aku menemukan hal yang menarik, aku akan share di blog pribadiku [ripabak.github.io](https://ripabak.github.io).
 
 Kesimpulannya adalah, ketika bermain dengan LLM untuk case predicted output yang ketat seperti ini, prompt system-nya juga harus ketat, apalagi kalau menggunakan model yang cheap dan cepat. Setiap problem berkaitan dengan halusinasi LLM harus di-strict dari segi prompting-nya. Semoga bermanfaat.

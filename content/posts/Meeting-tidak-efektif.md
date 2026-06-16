@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 editPost:
-    URL: "https://github.com/riparuk/riparuk.github.io/content/posts/Meeting-tidak-efektif.md"
+    URL: "https://github.com/ripabak/ripabak.github.io/content/posts/Meeting-tidak-efektif.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

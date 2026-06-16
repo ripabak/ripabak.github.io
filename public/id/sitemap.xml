@@ -2,147 +2,173 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <lastmod>2026-06-15T12:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/posts/hello-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/hello-world/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/hello-world/</loc>
+    <lastmod>2026-06-15T12:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/tags/hello-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/hello-world/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-06-15T12:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-15T12:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-15T12:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
     <loc>http://localhost:1313/tags/iphone/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/iphone/"
+                hreflang="id"
+                href="http://localhost:1313/tags/iphone/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/iphone/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/iphone/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/solusi-storage-iphone-penuh/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/solusi-storage-iphone-penuh/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="id"
                 href="http://localhost:1313/posts/solusi-storage-iphone-penuh/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-02-17T22:45:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-17T22:45:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/en/posts/solusi-storage-iphone-penuh/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/storage/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/storage/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="id"
                 href="http://localhost:1313/tags/storage/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-02-17T22:45:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/en/tags/storage/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/tips/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/tips/"
+                hreflang="id"
+                href="http://localhost:1313/tags/tips/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/tips/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/tips/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/experiment/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/experiment/"
+                hreflang="id"
+                href="http://localhost:1313/tags/experiment/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/experiment/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/experiment/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/experiment-llm-salah-memahami-waktu/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/experiment-llm-salah-memahami-waktu/"
+                hreflang="id"
+                href="http://localhost:1313/posts/experiment-llm-salah-memahami-waktu/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/experiment-llm-salah-memahami-waktu/"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/experiment-llm-salah-memahami-waktu/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/llm/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/llm/"
+                hreflang="id"
+                href="http://localhost:1313/tags/llm/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/llm/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/llm/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/traveed/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/traveed/"
+                hreflang="id"
+                href="http://localhost:1313/tags/traveed/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/traveed/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/traveed/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/solusi-vs-isulos/</loc>
@@ -152,439 +178,439 @@
     <lastmod>2026-02-09T20:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/thoughts/"
+                hreflang="id"
+                href="http://localhost:1313/tags/thoughts/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/thoughts/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/thoughts/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2026-02-09T12:30:30+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/ai/"
+                hreflang="id"
+                href="http://localhost:1313/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/ai/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/ai/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/budgeting/</loc>
     <lastmod>2026-02-09T12:30:30+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/budgeting/"
+                hreflang="id"
+                href="http://localhost:1313/tags/budgeting/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/budgeting/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/budgeting/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/expense-tracker/</loc>
     <lastmod>2026-02-09T12:30:30+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/expense-tracker/"
+                hreflang="id"
+                href="http://localhost:1313/tags/expense-tracker/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/expense-tracker/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/expense-tracker/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/projects/</loc>
     <lastmod>2026-02-09T12:30:30+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/projects/"
+                hreflang="id"
+                href="http://localhost:1313/tags/projects/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/projects/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/projects/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/traveed/</loc>
     <lastmod>2026-02-09T12:30:30+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/traveed/"
+                hreflang="id"
+                href="http://localhost:1313/posts/traveed/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/traveed/"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/traveed/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/travel/</loc>
     <lastmod>2026-02-09T12:30:30+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/travel/"
+                hreflang="id"
+                href="http://localhost:1313/tags/travel/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/travel/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/travel/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/meeting-tidak-efektif/</loc>
     <lastmod>2026-02-04T17:49:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/meeting-tidak-efektif/"
+                hreflang="id"
+                href="http://localhost:1313/posts/meeting-tidak-efektif/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/meeting-tidak-efektif/"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/meeting-tidak-efektif/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/gemini/</loc>
     <lastmod>2025-07-22T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/gemini/"
+                hreflang="id"
+                href="http://localhost:1313/tags/gemini/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/gemini/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/gemini/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/gpt/</loc>
     <lastmod>2025-07-22T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/gpt/"
+                hreflang="id"
+                href="http://localhost:1313/tags/gpt/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/gpt/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/gpt/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/qiai/</loc>
     <lastmod>2025-07-22T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/qiai/"
+                hreflang="id"
+                href="http://localhost:1313/posts/qiai/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/qiai/"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/qiai/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/terminal/</loc>
     <lastmod>2025-07-22T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/terminal/"
+                hreflang="id"
+                href="http://localhost:1313/tags/terminal/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/terminal/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/terminal/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/hidden-cam/</loc>
     <lastmod>2025-07-14T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/hidden-cam/"
+                hreflang="id"
+                href="http://localhost:1313/posts/hidden-cam/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/hidden-cam/"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/hidden-cam/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/langchain/</loc>
     <lastmod>2025-03-24T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/langchain/"
+                hreflang="id"
+                href="http://localhost:1313/tags/langchain/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/langchain/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/langchain/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/lazy-teacher/</loc>
     <lastmod>2025-03-24T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/lazy-teacher/"
+                hreflang="id"
+                href="http://localhost:1313/posts/lazy-teacher/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/lazy-teacher/"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/lazy-teacher/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/library/</loc>
     <lastmod>2025-03-24T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/library/"
+                hreflang="id"
+                href="http://localhost:1313/tags/library/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/library/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/library/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/about/</loc>
     <lastmod>2025-02-03T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/about/"
+                hreflang="id"
+                href="http://localhost:1313/tags/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/about/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/about/</loc>
     <lastmod>2025-02-03T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/about/"
+                hreflang="id"
+                href="http://localhost:1313/posts/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/about/"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/detector/</loc>
     <lastmod>2025-01-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/detector/"
+                hreflang="id"
+                href="http://localhost:1313/tags/detector/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/detector/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/detector/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2025-01-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/machine-learning/"
+                hreflang="id"
+                href="http://localhost:1313/tags/machine-learning/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/machine-learning/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/machine-learning/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/research/</loc>
     <lastmod>2025-01-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/research/"
+                hreflang="id"
+                href="http://localhost:1313/tags/research/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/research/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/research/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/smeltub/</loc>
     <lastmod>2025-01-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/smeltub/"
+                hreflang="id"
+                href="http://localhost:1313/tags/smeltub/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/smeltub/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/smeltub/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/smeltub-tuberculosis-detector/</loc>
     <lastmod>2025-01-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/smeltub-tuberculosis-detector/"
+                hreflang="id"
+                href="http://localhost:1313/posts/smeltub-tuberculosis-detector/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/smeltub-tuberculosis-detector/"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/smeltub-tuberculosis-detector/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/tuberculosis/</loc>
     <lastmod>2025-01-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/tuberculosis/"
+                hreflang="id"
+                href="http://localhost:1313/tags/tuberculosis/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/tuberculosis/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/tuberculosis/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/arch-linux/</loc>
     <lastmod>2023-07-08T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/arch-linux/"
+                hreflang="id"
+                href="http://localhost:1313/tags/arch-linux/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/arch-linux/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/arch-linux/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/archinstall/</loc>
     <lastmod>2023-07-08T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/archinstall/"
+                hreflang="id"
+                href="http://localhost:1313/tags/archinstall/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/archinstall/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/archinstall/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/install-arch-linux-with-archinstall/</loc>
     <lastmod>2023-07-08T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/install-arch-linux-with-archinstall/"
+                hreflang="id"
+                href="http://localhost:1313/posts/install-arch-linux-with-archinstall/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/install-arch-linux-with-archinstall/"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/install-arch-linux-with-archinstall/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/integrating-google-drive-on-linux-with-rclone/</loc>
     <lastmod>2023-07-08T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/integrating-google-drive-on-linux-with-rclone/"
+                hreflang="id"
+                href="http://localhost:1313/posts/integrating-google-drive-on-linux-with-rclone/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/integrating-google-drive-on-linux-with-rclone/"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/integrating-google-drive-on-linux-with-rclone/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2023-07-08T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/linux/"
+                hreflang="id"
+                href="http://localhost:1313/tags/linux/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/linux/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/linux/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/setting-up-an-hp-printer-on-arch-linux/</loc>
     <lastmod>2023-06-21T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/setting-up-an-hp-printer-on-arch-linux/"
+                hreflang="id"
+                href="http://localhost:1313/posts/setting-up-an-hp-printer-on-arch-linux/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/setting-up-an-hp-printer-on-arch-linux/"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/setting-up-an-hp-printer-on-arch-linux/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/users-groups-and-access-rights-on-linux/</loc>
     <lastmod>2023-06-21T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/users-groups-and-access-rights-on-linux/"
+                hreflang="id"
+                href="http://localhost:1313/posts/users-groups-and-access-rights-on-linux/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/posts/users-groups-and-access-rights-on-linux/"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/users-groups-and-access-rights-on-linux/"
                 />
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/archives/"
+                hreflang="id"
+                href="http://localhost:1313/archives/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/archives/"
+                hreflang="en"
+                href="http://localhost:1313/en/archives/"
                 />
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                hreflang="id"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/categories/"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
     <loc>http://localhost:1313/search/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/search/"
+                hreflang="id"
+                href="http://localhost:1313/search/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/search/"
+                hreflang="en"
+                href="http://localhost:1313/en/search/"
                 />
   </url>
 </urlset>

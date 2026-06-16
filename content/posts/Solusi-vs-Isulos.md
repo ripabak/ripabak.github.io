@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 editPost:
-    URL: "https://github.com/riparuk/riparuk.github.io/content/posts/Solusi-vs-Isulos.md"
+    URL: "https://github.com/ripabak/ripabak.github.io/content/posts/Solusi-vs-Isulos.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

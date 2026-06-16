@@ -21,7 +21,7 @@ cover:
     alt: "Hidden Cam Web" # alt text
     caption: "Hidden Cam Web" # display caption under cover
 editPost:
-    URL: "https://github.com/riparuk/riparuk.github.io/content/posts/Hidden-cam.md"
+    URL: "https://github.com/ripabak/ripabak.github.io/content/posts/Hidden-cam.md"
     Text: "Suggest Changes"
     appendFilePath: true
 ---
@@ -34,7 +34,7 @@ That basis is what led me to create this software. I didn't give it a special na
 
 How to use it is simple, it can be accessed through the website here: https://hidden-cam.vercel.app/.
 
-Don't worry, the video results will be stored in your own browser, not on a server. And this is also open-source, so you can see what the code looks like inside. Github: https://github.com/riparuk/hidden-cam-web.
+Don't worry, the video results will be stored in your own browser, not on a server. And this is also open-source, so you can see what the code looks like inside. Github: https://github.com/ripabak/hidden-cam-web.
 
 ![preview](images/hidden-cam/preview.png)
 
