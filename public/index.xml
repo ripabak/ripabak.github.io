@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.163.2</generator>
     <language>id</language>
-    <lastBuildDate>Mon, 15 Jun 2026 12:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 12:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backup Foto ke AWS S3</title>
+      <link>http://localhost:1313/posts/backup-foto-ke-aws-s3/</link>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/backup-foto-ke-aws-s3/</guid>
+      <description>Workflow backup foto &amp;amp; video dari kamera Sony ZV-1 ke AWS S3 — struktur rapi berdasarkan tanggal, biaya murah pakai lifecycle Glacier.</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>

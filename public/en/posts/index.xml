@@ -2,113 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on ripabak Web</title>
-    <link>http://localhost:1313/en/posts/</link>
+    <link>https://ripabak.github.io/en/posts/</link>
     <description>Recent content in Posts on ripabak Web</description>
     <image>
       <title>ripabak Web</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ripabak.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ripabak.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.163.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 12:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 12:00:00 +0700</lastBuildDate>
+    <atom:link href="https://ripabak.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photo Backup to AWS S3</title>
+      <link>https://ripabak.github.io/en/posts/backup-foto-ke-aws-s3/</link>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 +0700</pubDate>
+      <guid>https://ripabak.github.io/en/posts/backup-foto-ke-aws-s3/</guid>
+      <description>Photo &amp;amp; video backup workflow from Sony ZV-1 to AWS S3 — organized by date, dirt cheap with Glacier lifecycle.</description>
+    </item>
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/en/posts/hello-world/</link>
+      <link>https://ripabak.github.io/en/posts/hello-world/</link>
       <pubDate>Mon, 15 Jun 2026 12:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/hello-world/</guid>
+      <guid>https://ripabak.github.io/en/posts/hello-world/</guid>
       <description>The simplest first post — greeting the world with Hello World.</description>
     </item>
     <item>
       <title>iPhone Storage Full</title>
-      <link>http://localhost:1313/en/posts/solusi-storage-iphone-penuh/</link>
+      <link>https://ripabak.github.io/en/posts/solusi-storage-iphone-penuh/</link>
       <pubDate>Tue, 17 Feb 2026 22:45:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/solusi-storage-iphone-penuh/</guid>
+      <guid>https://ripabak.github.io/en/posts/solusi-storage-iphone-penuh/</guid>
       <description>Solution to overcome frequently full iPhone storage by resetting and restoring backup.</description>
     </item>
     <item>
       <title>Experiment: LLM Misunderstanding Time</title>
-      <link>http://localhost:1313/en/posts/experiment-llm-salah-memahami-waktu/</link>
+      <link>https://ripabak.github.io/en/posts/experiment-llm-salah-memahami-waktu/</link>
       <pubDate>Thu, 12 Feb 2026 23:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/experiment-llm-salah-memahami-waktu/</guid>
+      <guid>https://ripabak.github.io/en/posts/experiment-llm-salah-memahami-waktu/</guid>
       <description>Experiment with LLM misunderstanding time and solutions applied.</description>
     </item>
     <item>
       <title>Traveed</title>
-      <link>http://localhost:1313/en/posts/traveed/</link>
+      <link>https://ripabak.github.io/en/posts/traveed/</link>
       <pubDate>Mon, 09 Feb 2026 12:30:30 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/traveed/</guid>
+      <guid>https://ripabak.github.io/en/posts/traveed/</guid>
       <description>AI-powered expense tracking app that I use daily</description>
     </item>
     <item>
       <title>Meetings are tiring</title>
-      <link>http://localhost:1313/en/posts/meeting-tidak-efektif/</link>
+      <link>https://ripabak.github.io/en/posts/meeting-tidak-efektif/</link>
       <pubDate>Wed, 04 Feb 2026 17:49:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/meeting-tidak-efektif/</guid>
+      <guid>https://ripabak.github.io/en/posts/meeting-tidak-efektif/</guid>
       <description>It&amp;#39;s just my thought, about meetings that sometimes make me feel tired</description>
     </item>
     <item>
       <title>QIAI (Quick Assistant)</title>
-      <link>http://localhost:1313/en/posts/qiai/</link>
+      <link>https://ripabak.github.io/en/posts/qiai/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/qiai/</guid>
+      <guid>https://ripabak.github.io/en/posts/qiai/</guid>
       <description>Terminal Commands Assistant Integrated with GPT &amp;amp; Google Gemini</description>
     </item>
     <item>
       <title>Hidden Cam Web</title>
-      <link>http://localhost:1313/en/posts/hidden-cam/</link>
+      <link>https://ripabak.github.io/en/posts/hidden-cam/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/hidden-cam/</guid>
+      <guid>https://ripabak.github.io/en/posts/hidden-cam/</guid>
       <description>Record and save video evidence secretly through your browser. — designed to debunk scammers. 100% Stored Locally in your browser.</description>
     </item>
     <item>
       <title>Lazy Teacher</title>
-      <link>http://localhost:1313/en/posts/lazy-teacher/</link>
+      <link>https://ripabak.github.io/en/posts/lazy-teacher/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/lazy-teacher/</guid>
+      <guid>https://ripabak.github.io/en/posts/lazy-teacher/</guid>
       <description>Library that allows for automatic question generation and evaluation using the help of llm, built on langchain.</description>
     </item>
     <item>
       <title>What is this website?</title>
-      <link>http://localhost:1313/en/posts/about/</link>
+      <link>https://ripabak.github.io/en/posts/about/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/about/</guid>
+      <guid>https://ripabak.github.io/en/posts/about/</guid>
       <description>Brief introduction...</description>
     </item>
     <item>
       <title>Smeltub Tuberculosis Detector</title>
-      <link>http://localhost:1313/en/posts/smeltub-tuberculosis-detector/</link>
+      <link>https://ripabak.github.io/en/posts/smeltub-tuberculosis-detector/</link>
       <pubDate>Tue, 21 Jan 2025 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/smeltub-tuberculosis-detector/</guid>
+      <guid>https://ripabak.github.io/en/posts/smeltub-tuberculosis-detector/</guid>
       <description>Smeltub Tuberculosis Detector</description>
     </item>
     <item>
       <title>Install Arch Linux with archinstall</title>
-      <link>http://localhost:1313/en/posts/install-arch-linux-with-archinstall/</link>
+      <link>https://ripabak.github.io/en/posts/install-arch-linux-with-archinstall/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/install-arch-linux-with-archinstall/</guid>
+      <guid>https://ripabak.github.io/en/posts/install-arch-linux-with-archinstall/</guid>
       <description>My not-so-manual walkthrough for installing Arch Linux with the archinstall script so the setup stops being a chore</description>
     </item>
     <item>
       <title>Integrating Google Drive on Linux with rclone</title>
-      <link>http://localhost:1313/en/posts/integrating-google-drive-on-linux-with-rclone/</link>
+      <link>https://ripabak.github.io/en/posts/integrating-google-drive-on-linux-with-rclone/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/integrating-google-drive-on-linux-with-rclone/</guid>
+      <guid>https://ripabak.github.io/en/posts/integrating-google-drive-on-linux-with-rclone/</guid>
       <description>A quick rundown on how I hook Google Drive into my Linux box with rclone so it feels native</description>
     </item>
     <item>
       <title>Setting Up an HP Printer on Arch Linux</title>
-      <link>http://localhost:1313/en/posts/setting-up-an-hp-printer-on-arch-linux/</link>
+      <link>https://ripabak.github.io/en/posts/setting-up-an-hp-printer-on-arch-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/setting-up-an-hp-printer-on-arch-linux/</guid>
+      <guid>https://ripabak.github.io/en/posts/setting-up-an-hp-printer-on-arch-linux/</guid>
       <description>My quick checklist for getting an HP printer working nicely on Arch Linux</description>
     </item>
     <item>
       <title>Users, Groups, and Access Rights on Linux</title>
-      <link>http://localhost:1313/en/posts/users-groups-and-access-rights-on-linux/</link>
+      <link>https://ripabak.github.io/en/posts/users-groups-and-access-rights-on-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/users-groups-and-access-rights-on-linux/</guid>
+      <guid>https://ripabak.github.io/en/posts/users-groups-and-access-rights-on-linux/</guid>
       <description>A short explainer on users, groups, and how permissions tie everything together on Linux</description>
     </item>
   </channel>

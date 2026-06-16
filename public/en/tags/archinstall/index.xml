@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Archinstall on ripabak Web</title>
-    <link>http://localhost:1313/en/tags/archinstall/</link>
+    <link>https://ripabak.github.io/en/tags/archinstall/</link>
     <description>Recent content in Archinstall on ripabak Web</description>
     <image>
       <title>ripabak Web</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ripabak.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ripabak.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.163.2</generator>
     <language>en</language>
     <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/archinstall/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ripabak.github.io/en/tags/archinstall/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install Arch Linux with archinstall</title>
-      <link>http://localhost:1313/en/posts/install-arch-linux-with-archinstall/</link>
+      <link>https://ripabak.github.io/en/posts/install-arch-linux-with-archinstall/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/posts/install-arch-linux-with-archinstall/</guid>
+      <guid>https://ripabak.github.io/en/posts/install-arch-linux-with-archinstall/</guid>
       <description>My not-so-manual walkthrough for installing Arch Linux with the archinstall script so the setup stops being a chore</description>
     </item>
   </channel>

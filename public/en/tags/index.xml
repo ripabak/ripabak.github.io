@@ -2,204 +2,225 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on ripabak Web</title>
-    <link>http://localhost:1313/en/tags/</link>
+    <link>https://ripabak.github.io/en/tags/</link>
     <description>Recent content in Tags on ripabak Web</description>
     <image>
       <title>ripabak Web</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ripabak.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ripabak.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.163.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 12:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 12:00:00 +0700</lastBuildDate>
+    <atom:link href="https://ripabak.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/en/tags/hello-world/</link>
-      <pubDate>Mon, 15 Jun 2026 12:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/hello-world/</guid>
+      <title>AWS</title>
+      <link>https://ripabak.github.io/en/tags/aws/</link>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 +0700</pubDate>
+      <guid>https://ripabak.github.io/en/tags/aws/</guid>
       <description></description>
     </item>
     <item>
-      <title>Iphone</title>
-      <link>http://localhost:1313/en/tags/iphone/</link>
-      <pubDate>Tue, 17 Feb 2026 22:45:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/iphone/</guid>
+      <title>Backup</title>
+      <link>https://ripabak.github.io/en/tags/backup/</link>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 +0700</pubDate>
+      <guid>https://ripabak.github.io/en/tags/backup/</guid>
       <description></description>
     </item>
     <item>
-      <title>Storage</title>
-      <link>http://localhost:1313/en/tags/storage/</link>
-      <pubDate>Tue, 17 Feb 2026 22:45:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/storage/</guid>
+      <title>S3</title>
+      <link>https://ripabak.github.io/en/tags/s3/</link>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 +0700</pubDate>
+      <guid>https://ripabak.github.io/en/tags/s3/</guid>
       <description></description>
     </item>
     <item>
       <title>Tips</title>
-      <link>http://localhost:1313/en/tags/tips/</link>
+      <link>https://ripabak.github.io/en/tags/tips/</link>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 +0700</pubDate>
+      <guid>https://ripabak.github.io/en/tags/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>https://ripabak.github.io/en/tags/hello-world/</link>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 +0700</pubDate>
+      <guid>https://ripabak.github.io/en/tags/hello-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iphone</title>
+      <link>https://ripabak.github.io/en/tags/iphone/</link>
       <pubDate>Tue, 17 Feb 2026 22:45:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/tips/</guid>
+      <guid>https://ripabak.github.io/en/tags/iphone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Storage</title>
+      <link>https://ripabak.github.io/en/tags/storage/</link>
+      <pubDate>Tue, 17 Feb 2026 22:45:00 +0700</pubDate>
+      <guid>https://ripabak.github.io/en/tags/storage/</guid>
       <description></description>
     </item>
     <item>
       <title>Experiment</title>
-      <link>http://localhost:1313/en/tags/experiment/</link>
+      <link>https://ripabak.github.io/en/tags/experiment/</link>
       <pubDate>Thu, 12 Feb 2026 23:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/experiment/</guid>
+      <guid>https://ripabak.github.io/en/tags/experiment/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>http://localhost:1313/en/tags/llm/</link>
+      <link>https://ripabak.github.io/en/tags/llm/</link>
       <pubDate>Thu, 12 Feb 2026 23:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/llm/</guid>
+      <guid>https://ripabak.github.io/en/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>Traveed</title>
-      <link>http://localhost:1313/en/tags/traveed/</link>
+      <link>https://ripabak.github.io/en/tags/traveed/</link>
       <pubDate>Thu, 12 Feb 2026 23:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/traveed/</guid>
+      <guid>https://ripabak.github.io/en/tags/traveed/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/en/tags/ai/</link>
+      <link>https://ripabak.github.io/en/tags/ai/</link>
       <pubDate>Mon, 09 Feb 2026 12:30:30 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/ai/</guid>
+      <guid>https://ripabak.github.io/en/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Budgeting</title>
-      <link>http://localhost:1313/en/tags/budgeting/</link>
+      <link>https://ripabak.github.io/en/tags/budgeting/</link>
       <pubDate>Mon, 09 Feb 2026 12:30:30 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/budgeting/</guid>
+      <guid>https://ripabak.github.io/en/tags/budgeting/</guid>
       <description></description>
     </item>
     <item>
       <title>Expense Tracker</title>
-      <link>http://localhost:1313/en/tags/expense-tracker/</link>
+      <link>https://ripabak.github.io/en/tags/expense-tracker/</link>
       <pubDate>Mon, 09 Feb 2026 12:30:30 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/expense-tracker/</guid>
+      <guid>https://ripabak.github.io/en/tags/expense-tracker/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/en/tags/projects/</link>
+      <link>https://ripabak.github.io/en/tags/projects/</link>
       <pubDate>Mon, 09 Feb 2026 12:30:30 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/projects/</guid>
+      <guid>https://ripabak.github.io/en/tags/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/en/tags/travel/</link>
+      <link>https://ripabak.github.io/en/tags/travel/</link>
       <pubDate>Mon, 09 Feb 2026 12:30:30 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/travel/</guid>
+      <guid>https://ripabak.github.io/en/tags/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>Thoughts</title>
-      <link>http://localhost:1313/en/tags/thoughts/</link>
+      <link>https://ripabak.github.io/en/tags/thoughts/</link>
       <pubDate>Wed, 04 Feb 2026 17:49:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/thoughts/</guid>
+      <guid>https://ripabak.github.io/en/tags/thoughts/</guid>
       <description></description>
     </item>
     <item>
       <title>Gemini</title>
-      <link>http://localhost:1313/en/tags/gemini/</link>
+      <link>https://ripabak.github.io/en/tags/gemini/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/gemini/</guid>
+      <guid>https://ripabak.github.io/en/tags/gemini/</guid>
       <description></description>
     </item>
     <item>
       <title>GPT</title>
-      <link>http://localhost:1313/en/tags/gpt/</link>
+      <link>https://ripabak.github.io/en/tags/gpt/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/gpt/</guid>
+      <guid>https://ripabak.github.io/en/tags/gpt/</guid>
       <description></description>
     </item>
     <item>
       <title>Terminal</title>
-      <link>http://localhost:1313/en/tags/terminal/</link>
+      <link>https://ripabak.github.io/en/tags/terminal/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/terminal/</guid>
+      <guid>https://ripabak.github.io/en/tags/terminal/</guid>
       <description></description>
     </item>
     <item>
       <title>Langchain</title>
-      <link>http://localhost:1313/en/tags/langchain/</link>
+      <link>https://ripabak.github.io/en/tags/langchain/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/langchain/</guid>
+      <guid>https://ripabak.github.io/en/tags/langchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Library</title>
-      <link>http://localhost:1313/en/tags/library/</link>
+      <link>https://ripabak.github.io/en/tags/library/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/library/</guid>
+      <guid>https://ripabak.github.io/en/tags/library/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/en/tags/about/</link>
+      <link>https://ripabak.github.io/en/tags/about/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/about/</guid>
+      <guid>https://ripabak.github.io/en/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Detector</title>
-      <link>http://localhost:1313/en/tags/detector/</link>
+      <link>https://ripabak.github.io/en/tags/detector/</link>
       <pubDate>Tue, 21 Jan 2025 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/detector/</guid>
+      <guid>https://ripabak.github.io/en/tags/detector/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/en/tags/machine-learning/</link>
+      <link>https://ripabak.github.io/en/tags/machine-learning/</link>
       <pubDate>Tue, 21 Jan 2025 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/machine-learning/</guid>
+      <guid>https://ripabak.github.io/en/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/en/tags/research/</link>
+      <link>https://ripabak.github.io/en/tags/research/</link>
       <pubDate>Tue, 21 Jan 2025 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/research/</guid>
+      <guid>https://ripabak.github.io/en/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Smeltub</title>
-      <link>http://localhost:1313/en/tags/smeltub/</link>
+      <link>https://ripabak.github.io/en/tags/smeltub/</link>
       <pubDate>Tue, 21 Jan 2025 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/smeltub/</guid>
+      <guid>https://ripabak.github.io/en/tags/smeltub/</guid>
       <description></description>
     </item>
     <item>
       <title>Tuberculosis</title>
-      <link>http://localhost:1313/en/tags/tuberculosis/</link>
+      <link>https://ripabak.github.io/en/tags/tuberculosis/</link>
       <pubDate>Tue, 21 Jan 2025 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/tuberculosis/</guid>
+      <guid>https://ripabak.github.io/en/tags/tuberculosis/</guid>
       <description></description>
     </item>
     <item>
       <title>Arch Linux</title>
-      <link>http://localhost:1313/en/tags/arch-linux/</link>
+      <link>https://ripabak.github.io/en/tags/arch-linux/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/arch-linux/</guid>
+      <guid>https://ripabak.github.io/en/tags/arch-linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Archinstall</title>
-      <link>http://localhost:1313/en/tags/archinstall/</link>
+      <link>https://ripabak.github.io/en/tags/archinstall/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/archinstall/</guid>
+      <guid>https://ripabak.github.io/en/tags/archinstall/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/en/tags/linux/</link>
+      <link>https://ripabak.github.io/en/tags/linux/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/en/tags/linux/</guid>
+      <guid>https://ripabak.github.io/en/tags/linux/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linux on ripabak Web</title>
-    <link>http://localhost:1313/tags/linux/</link>
+    <link>https://ripabak.github.io/tags/linux/</link>
     <description>Recent content in Linux on ripabak Web</description>
     <image>
       <title>ripabak Web</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ripabak.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ripabak.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.163.2</generator>
     <language>id</language>
     <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ripabak.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Integrasi Google Drive di Linux dengan rclone</title>
-      <link>http://localhost:1313/posts/integrating-google-drive-on-linux-with-rclone/</link>
+      <link>https://ripabak.github.io/posts/integrating-google-drive-on-linux-with-rclone/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/integrating-google-drive-on-linux-with-rclone/</guid>
+      <guid>https://ripabak.github.io/posts/integrating-google-drive-on-linux-with-rclone/</guid>
       <description>Panduan cepat gimana caraku nyambungin Google Drive ke Linux pakai rclone biar rasanya native</description>
     </item>
     <item>
       <title>Setting Printer HP di Arch Linux</title>
-      <link>http://localhost:1313/posts/setting-up-an-hp-printer-on-arch-linux/</link>
+      <link>https://ripabak.github.io/posts/setting-up-an-hp-printer-on-arch-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/setting-up-an-hp-printer-on-arch-linux/</guid>
+      <guid>https://ripabak.github.io/posts/setting-up-an-hp-printer-on-arch-linux/</guid>
       <description>Checklist cepatku buat bikin printer HP jalan lancar di Arch Linux</description>
     </item>
     <item>
       <title>User, Group, dan Hak Akses di Linux</title>
-      <link>http://localhost:1313/posts/users-groups-and-access-rights-on-linux/</link>
+      <link>https://ripabak.github.io/posts/users-groups-and-access-rights-on-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/users-groups-and-access-rights-on-linux/</guid>
+      <guid>https://ripabak.github.io/posts/users-groups-and-access-rights-on-linux/</guid>
       <description>Penjelasan singkat soal user, group, dan gimana permission ngiket semuanya di Linux</description>
     </item>
   </channel>

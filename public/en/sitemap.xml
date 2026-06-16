@@ -2,612 +2,664 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/posts/hello-world/</loc>
-    <lastmod>2026-06-15T12:00:00+07:00</lastmod>
+    <loc>https://ripabak.github.io/en/tags/aws/</loc>
+    <lastmod>2026-06-16T12:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/hello-world/"
+                href="https://ripabak.github.io/tags/aws/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/hello-world/"
+                href="https://ripabak.github.io/en/tags/aws/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/hello-world/</loc>
-    <lastmod>2026-06-15T12:00:00+07:00</lastmod>
+    <loc>https://ripabak.github.io/en/tags/backup/</loc>
+    <lastmod>2026-06-16T12:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/hello-world/"
+                href="https://ripabak.github.io/tags/backup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/hello-world/"
+                href="https://ripabak.github.io/en/tags/backup/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2026-06-15T12:00:00+07:00</lastmod>
+    <loc>https://ripabak.github.io/en/posts/backup-foto-ke-aws-s3/</loc>
+    <lastmod>2026-06-16T12:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/"
+                href="https://ripabak.github.io/posts/backup-foto-ke-aws-s3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/"
+                href="https://ripabak.github.io/en/posts/backup-foto-ke-aws-s3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-06-15T12:00:00+07:00</lastmod>
+    <loc>https://ripabak.github.io/en/posts/</loc>
+    <lastmod>2026-06-16T12:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/"
+                href="https://ripabak.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://ripabak.github.io/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2026-06-15T12:00:00+07:00</lastmod>
+    <loc>https://ripabak.github.io/en/</loc>
+    <lastmod>2026-06-16T12:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/"
+                href="https://ripabak.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://ripabak.github.io/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/iphone/</loc>
+    <loc>https://ripabak.github.io/en/tags/s3/</loc>
+    <lastmod>2026-06-16T12:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://ripabak.github.io/tags/s3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ripabak.github.io/en/tags/s3/"
+                />
+  </url><url>
+    <loc>https://ripabak.github.io/en/tags/</loc>
+    <lastmod>2026-06-16T12:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://ripabak.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ripabak.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://ripabak.github.io/en/tags/tips/</loc>
+    <lastmod>2026-06-16T12:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://ripabak.github.io/tags/tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ripabak.github.io/en/tags/tips/"
+                />
+  </url><url>
+    <loc>https://ripabak.github.io/en/posts/hello-world/</loc>
+    <lastmod>2026-06-15T12:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://ripabak.github.io/posts/hello-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ripabak.github.io/en/posts/hello-world/"
+                />
+  </url><url>
+    <loc>https://ripabak.github.io/en/tags/hello-world/</loc>
+    <lastmod>2026-06-15T12:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://ripabak.github.io/tags/hello-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ripabak.github.io/en/tags/hello-world/"
+                />
+  </url><url>
+    <loc>https://ripabak.github.io/en/tags/iphone/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/iphone/"
+                href="https://ripabak.github.io/tags/iphone/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/iphone/"
+                href="https://ripabak.github.io/en/tags/iphone/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/solusi-storage-iphone-penuh/</loc>
+    <loc>https://ripabak.github.io/en/posts/solusi-storage-iphone-penuh/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/solusi-storage-iphone-penuh/"
+                href="https://ripabak.github.io/posts/solusi-storage-iphone-penuh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/solusi-storage-iphone-penuh/"
+                href="https://ripabak.github.io/en/posts/solusi-storage-iphone-penuh/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/storage/</loc>
+    <loc>https://ripabak.github.io/en/tags/storage/</loc>
     <lastmod>2026-02-17T22:45:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/storage/"
+                href="https://ripabak.github.io/tags/storage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/storage/"
+                href="https://ripabak.github.io/en/tags/storage/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/tips/</loc>
-    <lastmod>2026-02-17T22:45:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://localhost:1313/tags/tips/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/tips/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/experiment/</loc>
+    <loc>https://ripabak.github.io/en/tags/experiment/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/experiment/"
+                href="https://ripabak.github.io/tags/experiment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/experiment/"
+                href="https://ripabak.github.io/en/tags/experiment/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/experiment-llm-salah-memahami-waktu/</loc>
+    <loc>https://ripabak.github.io/en/posts/experiment-llm-salah-memahami-waktu/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/experiment-llm-salah-memahami-waktu/"
+                href="https://ripabak.github.io/posts/experiment-llm-salah-memahami-waktu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/experiment-llm-salah-memahami-waktu/"
+                href="https://ripabak.github.io/en/posts/experiment-llm-salah-memahami-waktu/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/llm/</loc>
+    <loc>https://ripabak.github.io/en/tags/llm/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/llm/"
+                href="https://ripabak.github.io/tags/llm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/llm/"
+                href="https://ripabak.github.io/en/tags/llm/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/traveed/</loc>
+    <loc>https://ripabak.github.io/en/tags/traveed/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/traveed/"
+                href="https://ripabak.github.io/tags/traveed/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/traveed/"
+                href="https://ripabak.github.io/en/tags/traveed/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/ai/</loc>
+    <loc>https://ripabak.github.io/en/tags/ai/</loc>
     <lastmod>2026-02-09T12:30:30+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/ai/"
+                href="https://ripabak.github.io/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/ai/"
+                href="https://ripabak.github.io/en/tags/ai/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/budgeting/</loc>
+    <loc>https://ripabak.github.io/en/tags/budgeting/</loc>
     <lastmod>2026-02-09T12:30:30+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/budgeting/"
+                href="https://ripabak.github.io/tags/budgeting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/budgeting/"
+                href="https://ripabak.github.io/en/tags/budgeting/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/expense-tracker/</loc>
+    <loc>https://ripabak.github.io/en/tags/expense-tracker/</loc>
     <lastmod>2026-02-09T12:30:30+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/expense-tracker/"
+                href="https://ripabak.github.io/tags/expense-tracker/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/expense-tracker/"
+                href="https://ripabak.github.io/en/tags/expense-tracker/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/projects/</loc>
+    <loc>https://ripabak.github.io/en/tags/projects/</loc>
     <lastmod>2026-02-09T12:30:30+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/projects/"
+                href="https://ripabak.github.io/tags/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/projects/"
+                href="https://ripabak.github.io/en/tags/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/traveed/</loc>
+    <loc>https://ripabak.github.io/en/posts/traveed/</loc>
     <lastmod>2026-02-09T12:30:30+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/traveed/"
+                href="https://ripabak.github.io/posts/traveed/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/traveed/"
+                href="https://ripabak.github.io/en/posts/traveed/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/travel/</loc>
+    <loc>https://ripabak.github.io/en/tags/travel/</loc>
     <lastmod>2026-02-09T12:30:30+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/travel/"
+                href="https://ripabak.github.io/tags/travel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/travel/"
+                href="https://ripabak.github.io/en/tags/travel/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/meeting-tidak-efektif/</loc>
+    <loc>https://ripabak.github.io/en/posts/meeting-tidak-efektif/</loc>
     <lastmod>2026-02-04T17:49:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/meeting-tidak-efektif/"
+                href="https://ripabak.github.io/posts/meeting-tidak-efektif/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/meeting-tidak-efektif/"
+                href="https://ripabak.github.io/en/posts/meeting-tidak-efektif/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/thoughts/</loc>
+    <loc>https://ripabak.github.io/en/tags/thoughts/</loc>
     <lastmod>2026-02-04T17:49:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/thoughts/"
+                href="https://ripabak.github.io/tags/thoughts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/thoughts/"
+                href="https://ripabak.github.io/en/tags/thoughts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/gemini/</loc>
+    <loc>https://ripabak.github.io/en/tags/gemini/</loc>
     <lastmod>2025-07-22T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/gemini/"
+                href="https://ripabak.github.io/tags/gemini/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/gemini/"
+                href="https://ripabak.github.io/en/tags/gemini/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/gpt/</loc>
+    <loc>https://ripabak.github.io/en/tags/gpt/</loc>
     <lastmod>2025-07-22T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/gpt/"
+                href="https://ripabak.github.io/tags/gpt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/gpt/"
+                href="https://ripabak.github.io/en/tags/gpt/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/qiai/</loc>
+    <loc>https://ripabak.github.io/en/posts/qiai/</loc>
     <lastmod>2025-07-22T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/qiai/"
+                href="https://ripabak.github.io/posts/qiai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/qiai/"
+                href="https://ripabak.github.io/en/posts/qiai/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/terminal/</loc>
+    <loc>https://ripabak.github.io/en/tags/terminal/</loc>
     <lastmod>2025-07-22T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/terminal/"
+                href="https://ripabak.github.io/tags/terminal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/terminal/"
+                href="https://ripabak.github.io/en/tags/terminal/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/hidden-cam/</loc>
+    <loc>https://ripabak.github.io/en/posts/hidden-cam/</loc>
     <lastmod>2025-07-14T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/hidden-cam/"
+                href="https://ripabak.github.io/posts/hidden-cam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/hidden-cam/"
+                href="https://ripabak.github.io/en/posts/hidden-cam/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/langchain/</loc>
+    <loc>https://ripabak.github.io/en/tags/langchain/</loc>
     <lastmod>2025-03-24T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/langchain/"
+                href="https://ripabak.github.io/tags/langchain/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/langchain/"
+                href="https://ripabak.github.io/en/tags/langchain/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/lazy-teacher/</loc>
+    <loc>https://ripabak.github.io/en/posts/lazy-teacher/</loc>
     <lastmod>2025-03-24T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/lazy-teacher/"
+                href="https://ripabak.github.io/posts/lazy-teacher/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/lazy-teacher/"
+                href="https://ripabak.github.io/en/posts/lazy-teacher/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/library/</loc>
+    <loc>https://ripabak.github.io/en/tags/library/</loc>
     <lastmod>2025-03-24T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/library/"
+                href="https://ripabak.github.io/tags/library/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/library/"
+                href="https://ripabak.github.io/en/tags/library/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/about/</loc>
+    <loc>https://ripabak.github.io/en/tags/about/</loc>
     <lastmod>2025-02-03T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/about/"
+                href="https://ripabak.github.io/tags/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/about/"
+                href="https://ripabak.github.io/en/tags/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/about/</loc>
+    <loc>https://ripabak.github.io/en/posts/about/</loc>
     <lastmod>2025-02-03T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/about/"
+                href="https://ripabak.github.io/posts/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/about/"
+                href="https://ripabak.github.io/en/posts/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/detector/</loc>
+    <loc>https://ripabak.github.io/en/tags/detector/</loc>
     <lastmod>2025-01-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/detector/"
+                href="https://ripabak.github.io/tags/detector/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/detector/"
+                href="https://ripabak.github.io/en/tags/detector/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/machine-learning/</loc>
+    <loc>https://ripabak.github.io/en/tags/machine-learning/</loc>
     <lastmod>2025-01-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/machine-learning/"
+                href="https://ripabak.github.io/tags/machine-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/machine-learning/"
+                href="https://ripabak.github.io/en/tags/machine-learning/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/research/</loc>
+    <loc>https://ripabak.github.io/en/tags/research/</loc>
     <lastmod>2025-01-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/research/"
+                href="https://ripabak.github.io/tags/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/research/"
+                href="https://ripabak.github.io/en/tags/research/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/smeltub/</loc>
+    <loc>https://ripabak.github.io/en/tags/smeltub/</loc>
     <lastmod>2025-01-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/smeltub/"
+                href="https://ripabak.github.io/tags/smeltub/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/smeltub/"
+                href="https://ripabak.github.io/en/tags/smeltub/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/smeltub-tuberculosis-detector/</loc>
+    <loc>https://ripabak.github.io/en/posts/smeltub-tuberculosis-detector/</loc>
     <lastmod>2025-01-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/smeltub-tuberculosis-detector/"
+                href="https://ripabak.github.io/posts/smeltub-tuberculosis-detector/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/smeltub-tuberculosis-detector/"
+                href="https://ripabak.github.io/en/posts/smeltub-tuberculosis-detector/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/tuberculosis/</loc>
+    <loc>https://ripabak.github.io/en/tags/tuberculosis/</loc>
     <lastmod>2025-01-21T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/tuberculosis/"
+                href="https://ripabak.github.io/tags/tuberculosis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/tuberculosis/"
+                href="https://ripabak.github.io/en/tags/tuberculosis/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/arch-linux/</loc>
+    <loc>https://ripabak.github.io/en/tags/arch-linux/</loc>
     <lastmod>2023-07-08T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/arch-linux/"
+                href="https://ripabak.github.io/tags/arch-linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/arch-linux/"
+                href="https://ripabak.github.io/en/tags/arch-linux/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/archinstall/</loc>
+    <loc>https://ripabak.github.io/en/tags/archinstall/</loc>
     <lastmod>2023-07-08T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/archinstall/"
+                href="https://ripabak.github.io/tags/archinstall/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/archinstall/"
+                href="https://ripabak.github.io/en/tags/archinstall/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/install-arch-linux-with-archinstall/</loc>
+    <loc>https://ripabak.github.io/en/posts/install-arch-linux-with-archinstall/</loc>
     <lastmod>2023-07-08T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/install-arch-linux-with-archinstall/"
+                href="https://ripabak.github.io/posts/install-arch-linux-with-archinstall/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/install-arch-linux-with-archinstall/"
+                href="https://ripabak.github.io/en/posts/install-arch-linux-with-archinstall/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/integrating-google-drive-on-linux-with-rclone/</loc>
+    <loc>https://ripabak.github.io/en/posts/integrating-google-drive-on-linux-with-rclone/</loc>
     <lastmod>2023-07-08T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/integrating-google-drive-on-linux-with-rclone/"
+                href="https://ripabak.github.io/posts/integrating-google-drive-on-linux-with-rclone/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/integrating-google-drive-on-linux-with-rclone/"
+                href="https://ripabak.github.io/en/posts/integrating-google-drive-on-linux-with-rclone/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/linux/</loc>
+    <loc>https://ripabak.github.io/en/tags/linux/</loc>
     <lastmod>2023-07-08T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/tags/linux/"
+                href="https://ripabak.github.io/tags/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/linux/"
+                href="https://ripabak.github.io/en/tags/linux/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/setting-up-an-hp-printer-on-arch-linux/</loc>
+    <loc>https://ripabak.github.io/en/posts/setting-up-an-hp-printer-on-arch-linux/</loc>
     <lastmod>2023-06-21T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/setting-up-an-hp-printer-on-arch-linux/"
+                href="https://ripabak.github.io/posts/setting-up-an-hp-printer-on-arch-linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/setting-up-an-hp-printer-on-arch-linux/"
+                href="https://ripabak.github.io/en/posts/setting-up-an-hp-printer-on-arch-linux/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/users-groups-and-access-rights-on-linux/</loc>
+    <loc>https://ripabak.github.io/en/posts/users-groups-and-access-rights-on-linux/</loc>
     <lastmod>2023-06-21T00:00:00+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/posts/users-groups-and-access-rights-on-linux/"
+                href="https://ripabak.github.io/posts/users-groups-and-access-rights-on-linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/users-groups-and-access-rights-on-linux/"
+                href="https://ripabak.github.io/en/posts/users-groups-and-access-rights-on-linux/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/archives/</loc>
+    <loc>https://ripabak.github.io/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/archives/"
+                href="https://ripabak.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/archives/"
+                href="https://ripabak.github.io/en/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://ripabak.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/categories/"
+                href="https://ripabak.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://ripabak.github.io/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/search/</loc>
+    <loc>https://ripabak.github.io/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/search/"
+                href="https://ripabak.github.io/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/search/"
+                href="https://ripabak.github.io/en/search/"
                 />
   </url>
 </urlset>
