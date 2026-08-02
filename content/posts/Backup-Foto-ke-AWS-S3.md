@@ -174,6 +174,8 @@ Dari Sony ZV-1:
 
 ExifTool bisa baca metadata `DateTimeOriginal` dari tiap foto dan mindahin ke folder berdasarkan tanggal.
 
+> **⚠️ Perhatian:** perintah ini akan **memindahkan** file dari SD card ke folder lokal, bukan menyalin. Jadi file asli di memori SD card bakal hilang setelah proses selesai. Pastikan semua file yang mau dibackup udah lengkap sebelum jalanin ini.
+
 ```bash
 exiftool '-Directory<${DateTimeOriginal}' \
   -d './foto-backup/%Y/%Y-%m-%d' \
