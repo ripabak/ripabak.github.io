@@ -62,8 +62,8 @@
     <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 
-{{- /* Insert projects carousel after every 2nd article (only on page 1) */ -}}
-{{- if and (eq $paginator.PageNumber 1) (eq $index 1) (gt (len $allProjects) 0) }}
+{{- /* Insert projects carousel after the 1st article (only on page 1) */ -}}
+{{- if and (eq $paginator.PageNumber 1) (eq $index 0) (gt (len $allProjects) 0) }}
 <section class="projects-section">
     <header class="projects-header">
         <h2>{{ i18n "latest_projects" }}</h2>
