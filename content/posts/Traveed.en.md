@@ -1,5 +1,5 @@
 ---
-title: "Traveed"
+title: "Traveed, tracking your expense with AI"
 date: 2026-02-09T12:30:30+07:00
 # weight: 1
 # aliases: ["/first"]

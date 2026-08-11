@@ -60,7 +60,7 @@ languages:
     params:
       homeInfoParams:
         Title: "Halo, Saya Rifa \U0001F44B"
-        Content: "Obsessed with Backend & Integrasi LLM, lihat proyek saya di GitHub atau di bagian **<u>[Proyek](/tags/projects/)</u>**. Selamat menikmati! <br>Selalu catat pengeluaranmu dengan AI di <u>**[Traveed.app](https://traveed.app)**</u>"
+        Content: "`I believe everything has meaning` <br>Obsessed with Backend & Integrasi LLM, lihat proyek saya di GitHub atau di bagian **<u>[Proyek](/tags/projects/)</u>**. Selamat menikmati! <br>Selalu catat pengeluaranmu dengan AI di <u>**[Traveed.app](https://traveed.app)**</u>"
       label:
         text: "Beranda"
         icon: /apple-touch-icon.png
@@ -95,7 +95,7 @@ languages:
     params:
       homeInfoParams:
         Title: "Hi, I'm Rifa \U0001F44B"
-        Content: "Obsessed with Backend & LLM Integration, see my projects on GitHub or in **<u>[Projects](/en/tags/projects/)</u>** section. Enjoy! <br>Always track your expenses with AI at <u>**[Traveed.app](https://traveed.app)**</u>"
+        Content: "`I believe everything has meaning` <br>Obsessed with Backend & LLM Integration, see my projects on GitHub or in **<u>[Projects](/en/tags/projects/)</u>** section. Enjoy! <br>Always track your expenses with AI at <u>**[Traveed.app](https://traveed.app)**</u>"
       label:
         text: "Home"
         icon: /apple-touch-icon.png
