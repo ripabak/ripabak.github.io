@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Thoughts on ripabak Web</title>
-    <link>http://localhost:1313/tags/thoughts/</link>
+    <link>https://ripabak.github.io/tags/thoughts/</link>
     <description>Recent content in Thoughts on ripabak Web</description>
     <image>
       <title>ripabak Web</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ripabak.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ripabak.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.163.2</generator>
     <language>id</language>
     <lastBuildDate>Mon, 09 Feb 2026 20:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ripabak.github.io/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solusi vs Isulos</title>
-      <link>http://localhost:1313/posts/solusi-vs-isulos/</link>
+      <link>https://ripabak.github.io/posts/solusi-vs-isulos/</link>
       <pubDate>Mon, 09 Feb 2026 20:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/solusi-vs-isulos/</guid>
+      <guid>https://ripabak.github.io/posts/solusi-vs-isulos/</guid>
       <description>Dualisme dalam solusi</description>
     </item>
     <item>
       <title>Meeting bikin capek</title>
-      <link>http://localhost:1313/posts/meeting-tidak-efektif/</link>
+      <link>https://ripabak.github.io/posts/meeting-tidak-efektif/</link>
       <pubDate>Wed, 04 Feb 2026 17:49:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/meeting-tidak-efektif/</guid>
+      <guid>https://ripabak.github.io/posts/meeting-tidak-efektif/</guid>
       <description>Its just my thought, about meeting that sometimes make me feel tired</description>
     </item>
   </channel>

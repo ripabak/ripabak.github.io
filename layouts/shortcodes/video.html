@@ -1,0 +1,18 @@
+{{ $paths := slice }}
+{{ range slice "src" "src2" "src3" "src4" }}
+  {{ with $.Get . }}{{ $paths = $paths | append . }}{{ end }}
+{{ end }}
+{{ with $paths }}
+<video controls preload="metadata" style="width:100%;border-radius:8px">
+  {{ range . }}
+    {{ with resources.Get . }}
+    <source src="{{ .RelPermalink }}" type="{{ .MediaType }}">
+    {{ else }}
+    {{ errorf "Video not found: %q" . }}
+    {{ end }}
+  {{ end }}
+  Your browser does not support the video tag.
+</video>
+{{ else }}
+{{ errorf "video shortcode: at least one src required" }}
+{{ end }}

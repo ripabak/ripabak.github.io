@@ -110,7 +110,8 @@ cover:
     alt: "Alt text for image"
     caption: "Caption under cover image"
     relative: false                        # always false (no page bundles)
-    hidden: false
+    hiddenInSingle: true                   # hide cover on the post page, keep it in listings
+    # hidden: true                         # hides cover on BOTH post page AND listings
 ```
 
 ### Field Notes
@@ -122,6 +123,8 @@ cover:
 | `description` | Becomes both `<meta description>` and the post summary in list/card views. 1-2 sentences. |
 | `cover.image` | Path **relative to `assets/`**. Always starts with `images/`. One folder per post slug. |
 | `cover.relative` | Always `false` (the site uses flat files, not page bundles). |
+| `cover.hiddenInSingle` | Set to `true` to hide the cover **only on the post page** (`/posts/{slug}/`); it still shows in listing/card views. Leave unset (or `false`) to show it everywhere. |
+| `cover.hidden` | Set to `true` to hide the cover **everywhere** (post page AND listings). Note: `hidden` is the fallback for both `hiddenInSingle` and `hiddenInList` in PaperMod, so prefer `hiddenInSingle: true` when you only want to hide it on the post page. |
 | `editPost.URL` | In `.en.md`, point to the `.md` file (Indonesian primary). In `.md`, point to itself. |
 | `draft` | Set to `true` to hide from production. |
 
