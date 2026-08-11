@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "AI Agent yang mempermudah aku memperbagus resume secara mudah dan otomatis"
+description: "Aku membuat AI Agent untuk memperbagus resume dengan effortless"
 showReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

@@ -1,5 +1,5 @@
 ---
-title: "ChatYourPage, an AI Agent That Answers from Your Website's Own Content"
+title: "ChatYourPage, embed agent to your website"
 date: 2026-08-11T12:00:00+07:00
 tags: ["Projects", "AI", "LLM", "Agent", "RAG"]
 author: "Me"
@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "A RAG-powered AI Agent you embed with one line of code — it learns from your website's content, answers with sources, and lets you track who's asking."
+description: "A RAG-powered AI Agent you embed with one line of code"
 showReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

@@ -1,5 +1,5 @@
 ---
-title: "ChatYourPage, AI Agent yang jawab pertanyaan dari konten website-mu"
+title: "ChatYourPage, pasang agent di website kamu"
 date: 2026-08-11T12:00:00+07:00
 tags: ["Projects", "AI", "LLM", "Agent", "RAG"]
 author: "Me"
@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "AI Agent RAG yang dipasang cuma dengan satu baris kode — agent belajar dari konten website-mu, jawab pakai sumbernya, dan kamu bisa pantau siapa saja yang bertanya."
+description: "AI Agent RAG yang dipasang cukup dengan satu baris kode"
 showReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

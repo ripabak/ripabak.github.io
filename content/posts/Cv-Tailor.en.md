@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "An AI Agent that creates and edits your resume through chat — just copy-paste your old resume and let the AI edit the code directly."
+description: "I built AI Agent for making resume effortlessly"
 showReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
