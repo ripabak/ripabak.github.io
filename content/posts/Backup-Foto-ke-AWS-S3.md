@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Workflow backup foto & video dari kamera Sony ZV-1 ke AWS S3 — struktur rapi berdasarkan tanggal, biaya murah pakai lifecycle Glacier."
 disableHLJS: true
 disableShare: false

@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Panduan instalasi Arch Linux yang ga ribet pakai script archinstall, biar setup ga jadi beban"
 searchHidden: false
 ShowReadingTime: true

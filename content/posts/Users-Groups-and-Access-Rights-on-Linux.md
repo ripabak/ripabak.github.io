@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Penjelasan singkat soal user, group, dan gimana permission ngiket semuanya di Linux"
 searchHidden: false
 ShowReadingTime: true

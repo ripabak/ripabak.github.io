@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Solution to overcome frequently full iPhone storage by resetting and restoring backup."
 disableHLJS: true
 disableShare: false

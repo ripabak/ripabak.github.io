@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "A RAG-powered AI Agent you embed with one line of code — it learns from your website's content, answers with sources, and lets you track who's asking."
 showReadingTime: true
 ShowBreadCrumbs: true

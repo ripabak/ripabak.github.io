@@ -10,7 +10,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Eksperimen dengan LLM yang salah memahami waktu dan solusi yang diterapkan."
 disableHLJS: true # to disable highlightjs
 disableShare: false

@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Solusi untuk mengatasi storage Iphone yang sering penuh dengan cara reset dan restore backup."
 disableHLJS: true
 disableShare: false

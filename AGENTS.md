@@ -84,7 +84,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Short summary – shows in meta tags and post listings."
 searchHidden: false
 ShowReadingTime: true
@@ -127,6 +127,36 @@ cover:
 | `cover.hidden` | Set to `true` to hide the cover **everywhere** (post page AND listings). Note: `hidden` is the fallback for both `hiddenInSingle` and `hiddenInList` in PaperMod, so prefer `hiddenInSingle: true` when you only want to hide it on the post page. |
 | `editPost.URL` | In `.en.md`, point to the `.md` file (Indonesian primary). In `.md`, point to itself. |
 | `draft` | Set to `true` to hide from production. |
+| `comments` | Set to `true` to show the Giscus comment section on the post page (default). Set to `false` to disable it for a specific post. |
+
+---
+
+## Comments System (Giscus)
+
+Comments use **Giscus** (backed by GitHub Discussions on this repo).
+
+### How It Works
+
+- Each post URL maps to its **own GitHub Discussion** thread (via `data-mapping="pathname"`). Threads are auto-created the first time someone comments.
+- Threads are grouped under the **Announcements** category in GitHub Discussions (purely organizational — does NOT mean posts share a thread).
+- Because mapping is `pathname`, the Indonesian (`/posts/{slug}/`) and English (`/en/posts/{slug}/`) versions have **separate comment threads**.
+- The Giscus UI language follows the post language via `data-lang` (`id` or `en`), set dynamically in `layouts/partials/comments.html`.
+- Comments only render on single pages when `.Param "comments"` is truthy — frontmatter overrides the global `params.comments: true` in `hugo.yaml`.
+
+### Files
+
+| File | Role |
+|------|------|
+| `layouts/partials/comments.html` | Giscus embed script (repo id `R_kgDOSMIy4A`, category `Announcements`/`DIC_kwDOSMIy4M4DDIPA`). |
+| `hugo.yaml` → `params.comments` | Global default (`true`). |
+| Post frontmatter `comments` | Per-post override (default from archetype: `true`). |
+
+### Gotchas
+
+- Don't change `data-repo-id` / `data-category-id` unless the repo or category changes (get new values from https://giscus.app).
+- Keep `comments` identical in both language files of a post.
+- Comment threads live in GitHub Discussions — moderation happens there (`https://github.com/ripabak/ripabak.github.io/discussions`).
+- If a post is a draft (`draft: true`), its page (and comments) are not built.
 
 ---
 

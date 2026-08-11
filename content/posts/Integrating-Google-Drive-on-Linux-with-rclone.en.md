@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "A quick rundown on how I hook Google Drive into my Linux box with rclone so it feels native"
 searchHidden: false
 ShowReadingTime: true

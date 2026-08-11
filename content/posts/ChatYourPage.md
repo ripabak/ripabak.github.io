@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "AI Agent RAG yang dipasang cuma dengan satu baris kode — agent belajar dari konten website-mu, jawab pakai sumbernya, dan kamu bisa pantau siapa saja yang bertanya."
 showReadingTime: true
 ShowBreadCrumbs: true

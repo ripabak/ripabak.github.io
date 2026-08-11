@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "My quick checklist for getting an HP printer working nicely on Arch Linux"
 searchHidden: false
 ShowReadingTime: true

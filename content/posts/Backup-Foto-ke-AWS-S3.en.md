@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Photo & video backup workflow from Sony ZV-1 to AWS S3 — organized by date, dirt cheap with Glacier lifecycle."
 disableHLJS: true
 disableShare: false

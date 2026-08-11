@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "A short explainer on users, groups, and how permissions tie everything together on Linux"
 searchHidden: false
 ShowReadingTime: true

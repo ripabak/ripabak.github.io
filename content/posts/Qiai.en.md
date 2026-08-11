@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Terminal Commands Assistant Integrated with GPT & Google Gemini"
 searchHidden: false
 ShowReadingTime: true

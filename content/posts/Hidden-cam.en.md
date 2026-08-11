@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Record and save video evidence secretly through your browser. — designed to debunk scammers. 100% Stored Locally in your browser."
 searchHidden: false
 ShowReadingTime: true

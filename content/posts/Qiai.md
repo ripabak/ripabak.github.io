@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Asisten Perintah Terminal yang Terintegrasi dengan GPT & Google Gemini"
 canonicalURL: "https://medium.com/@rifafaruqi/terminal-commands-assistant-integrated-with-gpt-qiai-quick-assistant-fb249a686fb8"
 showReadingTime: true

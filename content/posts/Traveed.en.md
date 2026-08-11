@@ -10,7 +10,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "AI-powered expense tracking app that I use daily"
 disableHLJS: true # to disable highlightjs
 disableShare: false

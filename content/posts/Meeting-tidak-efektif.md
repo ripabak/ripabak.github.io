@@ -10,7 +10,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Its just my thought, about meeting that sometimes make me feel tired"
 disableHLJS: true # to disable highlightjs
 disableShare: false

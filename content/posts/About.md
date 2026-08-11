@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Coba baca dulu deh ini ..."
 searchHidden: false
 ShowReadingTime: true

@@ -10,7 +10,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Aplikasi pencatatan pengeluaran pakai AI yang saya gunakan sehari-hari"
 disableHLJS: true # to disable highlightjs
 disableShare: false

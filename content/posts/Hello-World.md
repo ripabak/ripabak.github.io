@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Postingan pertama yang paling sederhana — menyapa dunia dengan Hello World."
 searchHidden: false
 ShowReadingTime: true

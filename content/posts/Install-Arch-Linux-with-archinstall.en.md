@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "My not-so-manual walkthrough for installing Arch Linux with the archinstall script so the setup stops being a chore"
 searchHidden: false
 ShowReadingTime: true
