@@ -138,7 +138,7 @@ Comments use **Giscus** (backed by GitHub Discussions on this repo).
 ### How It Works
 
 - Each post URL maps to its **own GitHub Discussion** thread (via `data-mapping="pathname"`). Threads are auto-created the first time someone comments.
-- Threads are grouped under the **Announcements** category in GitHub Discussions (purely organizational — does NOT mean posts share a thread).
+- Threads are grouped under the **General** category in GitHub Discussions (purely organizational — does NOT mean posts share a thread).
 - Because mapping is `pathname`, the Indonesian (`/posts/{slug}/`) and English (`/en/posts/{slug}/`) versions have **separate comment threads**.
 - The Giscus UI language follows the post language via `data-lang` (`id` or `en`), set dynamically in `layouts/partials/comments.html`.
 - Comments only render on single pages when `.Param "comments"` is truthy — frontmatter overrides the global `params.comments: true` in `hugo.yaml`.
@@ -147,7 +147,7 @@ Comments use **Giscus** (backed by GitHub Discussions on this repo).
 
 | File | Role |
 |------|------|
-| `layouts/partials/comments.html` | Giscus embed script (repo id `R_kgDOSMIy4A`, category `Announcements`/`DIC_kwDOSMIy4M4DDIPA`). |
+| `layouts/partials/comments.html` | Giscus embed script (repo id `R_kgDOSMIy4A`, category `General`/`DIC_kwDOSMIy4M4DDIPB`). |
 | `hugo.yaml` → `params.comments` | Global default (`true`). |
 | Post frontmatter `comments` | Per-post override (default from archetype: `true`). |
 
