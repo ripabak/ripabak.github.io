@@ -14,18 +14,18 @@
     <lastBuildDate>Tue, 11 Aug 2026 12:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ChatYourPage, AI Agent yang jawab pertanyaan dari konten website-mu</title>
+      <title>ChatYourPage, pasang agent di website kamu</title>
       <link>http://localhost:1313/posts/chatyourpage/</link>
       <pubDate>Tue, 11 Aug 2026 12:00:00 +0700</pubDate>
       <guid>http://localhost:1313/posts/chatyourpage/</guid>
-      <description>AI Agent RAG yang dipasang cuma dengan satu baris kode — agent belajar dari konten website-mu, jawab pakai sumbernya, dan kamu bisa pantau siapa saja yang bertanya.</description>
+      <description>AI Agent RAG yang dipasang cukup dengan satu baris kode</description>
     </item>
     <item>
       <title>CV-Tailor, bikin resume pakai AI Agent</title>
       <link>http://localhost:1313/posts/cv-tailor/</link>
       <pubDate>Mon, 10 Aug 2026 12:00:00 +0700</pubDate>
       <guid>http://localhost:1313/posts/cv-tailor/</guid>
-      <description>AI Agent yang mempermudah aku memperbagus resume secara mudah dan otomatis</description>
+      <description>Aku membuat AI Agent untuk memperbagus resume dengan effortless</description>
     </item>
     <item>
       <title>Traveed, catat pengeluaran tinggal ngomong</title>

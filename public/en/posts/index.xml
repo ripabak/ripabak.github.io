@@ -14,18 +14,18 @@
     <lastBuildDate>Tue, 11 Aug 2026 12:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ChatYourPage, an AI Agent That Answers from Your Website&#39;s Own Content</title>
+      <title>ChatYourPage, embed agent to your website</title>
       <link>http://localhost:1313/en/posts/chatyourpage/</link>
       <pubDate>Tue, 11 Aug 2026 12:00:00 +0700</pubDate>
       <guid>http://localhost:1313/en/posts/chatyourpage/</guid>
-      <description>A RAG-powered AI Agent you embed with one line of code — it learns from your website&amp;#39;s content, answers with sources, and lets you track who&amp;#39;s asking.</description>
+      <description>A RAG-powered AI Agent you embed with one line of code</description>
     </item>
     <item>
       <title>CV-Tailor, Building Your Resume with an AI Agent</title>
       <link>http://localhost:1313/en/posts/cv-tailor/</link>
       <pubDate>Mon, 10 Aug 2026 12:00:00 +0700</pubDate>
       <guid>http://localhost:1313/en/posts/cv-tailor/</guid>
-      <description>An AI Agent that creates and edits your resume through chat — just copy-paste your old resume and let the AI edit the code directly.</description>
+      <description>I built AI Agent for making resume effortlessly</description>
     </item>
     <item>
       <title>Photo Backup to AWS S3</title>

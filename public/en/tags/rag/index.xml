@@ -14,11 +14,11 @@
     <lastBuildDate>Tue, 11 Aug 2026 12:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/rag/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ChatYourPage, an AI Agent That Answers from Your Website&#39;s Own Content</title>
+      <title>ChatYourPage, embed agent to your website</title>
       <link>http://localhost:1313/en/posts/chatyourpage/</link>
       <pubDate>Tue, 11 Aug 2026 12:00:00 +0700</pubDate>
       <guid>http://localhost:1313/en/posts/chatyourpage/</guid>
-      <description>A RAG-powered AI Agent you embed with one line of code — it learns from your website&amp;#39;s content, answers with sources, and lets you track who&amp;#39;s asking.</description>
+      <description>A RAG-powered AI Agent you embed with one line of code</description>
     </item>
   </channel>
 </rss>
